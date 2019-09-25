@@ -5,12 +5,27 @@
 >在线抢房前后端结合的demo 这本是一个商业项目，计划客户手机H5抢房，大屏上实时显示房源被抢完过程  由于某些原因没有开发完善，请勿用于生产环镜，造成一切损失有使用者自己负责
 
 
-##### 截图预览
-
-![](https://i.loli.net/2018/08/26/5b826868e2359.png)
+#### GIF预览
 
 
-##### 前后 & 端所有技术
+![](https://raw.githubusercontent.com/wuyouxin/vue-house/master/jpg/gif.gif)
+
+
+
+#### 截图预览
+
+|![](https://raw.githubusercontent.com/wuyouxin/vue-house/master/jpg/01.png)| ![](https://raw.githubusercontent.com/wuyouxin/vue-house/master/jpg/02.png)| 
+| --- | --- |
+|![](https://raw.githubusercontent.com/wuyouxin/vue-house/master/jpg/03.png)| ![](https://raw.githubusercontent.com/wuyouxin/vue-house/master/jpg/04.png)| 
+|![](https://raw.githubusercontent.com/wuyouxin/vue-house/master/jpg/05.png)| ![](https://raw.githubusercontent.com/wuyouxin/vue-house/master/jpg/06.png)| 
+|![](https://raw.githubusercontent.com/wuyouxin/vue-house/master/jpg/07.png)| ![](https://raw.githubusercontent.com/wuyouxin/vue-house/master/jpg/08.png)| 
+|![](https://raw.githubusercontent.com/wuyouxin/vue-house/master/jpg/09.png)| ![](https://raw.githubusercontent.com/wuyouxin/vue-house/master/jpg/10.png)| 
+
+
+
+
+
+#### 前后 & 端所有技术
 - axios
 - better-scroll
 - vue
@@ -25,7 +40,9 @@
 
 
 
-##### 前端
+
+
+#### 前端
 
 ``` bash
 # install dependencies
@@ -39,7 +56,9 @@ npm run dev
 
 
 
-##### 后端
+
+
+#### 后端
 
 ``` bash
 # 安装docker
