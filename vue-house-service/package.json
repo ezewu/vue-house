@@ -14,7 +14,7 @@
     "koa-logger": "^3.2.0",
     "koa-router": "^7.4.0",
     "koa-session": "^5.8.1",
-    "mongoose": "^5.1.7",
+    "mongoose": "^5.7.5",
     "nanoid": "^1.0.4",
     "redis": "^2.8.0",
     "socket.io": "2.1.1",
